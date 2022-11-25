@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "NoteJumpSparks",
+  "name": "Note Jump Sparks",
+  "author": "Kaitlyn",
+  "version": "1.0.0",
+  "description": "Adds back the ill-fabled note jump sparks from 2018 versions of Beat Saber.",
+  "gameVersion": "1.26.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.2",
+    "SiraUtil": "^3.1.2"
+  }
+}
